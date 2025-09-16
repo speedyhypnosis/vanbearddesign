@@ -1364,44 +1364,6 @@ a {
   text-align: center;
   color: #fff0b0;
 }
-.cid-uVP9E25gbp {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-uVP9E25gbp .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-uVP9E25gbp .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-uVP9E25gbp .counter-container ol li {
-  list-style: none;
-  padding-left: 1rem;
-  position: relative;
-}
-.cid-uVP9E25gbp .counter-container ol li:before {
-  position: absolute;
-  left: -40px;
-  margin-top: 5px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #e43f3f;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-uVP9E25gbp .mbr-section-title {
-  text-align: center;
-  color: #1c3f5f;
-}
 .cid-uVUebQTdxw {
   padding-top: 2rem;
   padding-bottom: 2rem;
