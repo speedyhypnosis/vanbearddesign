@@ -52,7 +52,7 @@
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": "@PROJECT_PATH@/assets/images/soul-food-dinner-recipe-collections-van-beard-design-logo-september-2025-l1_5.png",
-    "mbrsiteDomain": "vpxsznotya",
+    "mbrsiteDomain": "18wxamzdfb",
     "imageResize": false,
     "usedWebp": false,
     "sitemapSwitcher": false,
@@ -94,7 +94,7 @@
         "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Soul Food Recipe Books with Meal Planning Timelines | Van Beard Design</title>\n<meta name=\"description\" content=\"Professional soul food recipe collections with coordinated timelines. Get complete dinner menus that eliminate kitchen chaos. Digital downloads $15 each.\">\n<meta name=\"keywords\" content=\"soul food recipes, meal planning, recipe books, cooking timelines, southern recipes, dinner planning\">\n<meta name=\"author\" content=\"Van Beard Jr.\">\n<meta name=\"robots\" content=\"index, follow\">\n<link rel=\"canonical\" href=\"https://vanbearddesign.com/\">\n\n<!-- Open Graph for Social Media -->\n<meta property=\"og:title\" content=\"Soul Food Recipe Books with Meal Planning Timelines\">\n<meta property=\"og:description\" content=\"Professional soul food recipe collections with coordinated timelines. Digital downloads $15 each.\">\n<meta property=\"og:url\" content=\"https://vanbearddesign.com\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:site_name\" content=\"Van Beard Design\">\n\n<!-- Twitter Cards -->\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Soul Food Recipe Books with Meal Planning Timelines\">\n<meta name=\"twitter:description\" content=\"Professional soul food recipe collections with coordinated timelines.\">",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/soul-food-dinner-recipe-collections-van-beard-design-september-2025-s1.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/soul-food-dinner-recipe-collections-van-beard-design-september-2025-s1-1.png"
       },
       "components": [
         {
