@@ -49,15 +49,15 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "robotsSwitcher": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": "@PROJECT_PATH@/assets/images/soul-food-dinner-recipe-collections-van-beard-design-logo-september-2025-l1_5.png",
-    "mbrsiteDomain": "18wxamzdfb",
+    "mbrsiteDomain": "x20tlnbx1e",
     "imageResize": false,
     "usedWebp": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://funeralready.com",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
