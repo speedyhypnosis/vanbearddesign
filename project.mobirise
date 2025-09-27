@@ -52,12 +52,12 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": "@PROJECT_PATH@/assets/images/soul-food-dinner-recipe-collections-van-beard-design-logo-september-2025-l1_5.png",
-    "mbrsiteDomain": "x20tlnbx1e",
+    "mbrsiteDomain": "flvr7kedvv",
     "imageResize": false,
     "usedWebp": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://funeralready.com",
+    "siteUrl": "https://vanbearddesign.com",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -81,7 +81,7 @@
     "uniqCompNum": 75,
     "versionPublish": "6.0.6",
     "screenshot": "screenshot.png",
-    "google-analytics": "",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-ZSDT4P5B5C\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-ZSDT4P5B5C');\n</script>",
     "cssOptimize": true,
     "lazyLoad": true
   },
